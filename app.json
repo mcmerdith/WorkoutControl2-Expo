@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a2d344ee-afa0-4904-972c-2fbbd72ab9ce"
+      }
+    },
+    "owner": "mcmerdith"
   }
 }
