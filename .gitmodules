@@ -1,0 +1,3 @@
+[submodule "workoutcontrol-api"]
+	path = workoutcontrol-api
+	url = https://github.com/mcmerdith/workoutcontrol-api.git
